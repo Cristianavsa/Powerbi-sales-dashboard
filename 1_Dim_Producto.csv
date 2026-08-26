@@ -1,0 +1,51 @@
+﻿ProductKey,ProductID,ProductName,Category,SubCategory,Brand,UnitCost,ListPrice,IsActive
+1,PRD-0001,LG Smartphones Pro,Electrónica,Smartphones,LG,229.0,330.81,Si
+2,PRD-0002,LG Smartphones Plus,Electrónica,Smartphones,LG,700.92,1044.13,Si
+3,PRD-0003,LG Laptops Pro,Electrónica,Laptops,LG,370.42,530.38,Si
+4,PRD-0004,Sony Laptops Plus,Electrónica,Laptops,Sony,525.94,727.14,Si
+5,PRD-0005,Samsung Accesorios Pro,Electrónica,Accesorios,Samsung,645.16,956.08,Si
+6,PRD-0006,Xiaomi Accesorios Plus,Electrónica,Accesorios,Xiaomi,254.34,356.83,Si
+7,PRD-0007,Sony Audio Pro,Electrónica,Audio,Sony,595.51,843.52,Si
+8,PRD-0008,Sony Audio Plus,Electrónica,Audio,Sony,400.05,554.6,Si
+9,PRD-0009,Sony Wearables Pro,Electrónica,Wearables,Sony,429.98,592.99,Si
+10,PRD-0010,LG Wearables Plus,Electrónica,Wearables,LG,267.86,350.93,Si
+11,PRD-0011,Nike Hombre Pro,Ropa,Hombre,Nike,87.63,137.12,Si
+12,PRD-0012,Levi's Hombre Plus,Ropa,Hombre,Levi's,73.96,118.73,Si
+13,PRD-0013,Zara Mujer Pro,Ropa,Mujer,Zara,77.81,128.52,Si
+14,PRD-0014,Adidas Mujer Plus,Ropa,Mujer,Adidas,89.6,142.59,Si
+15,PRD-0015,Zara Niños Pro,Ropa,Niños,Zara,48.45,82.81,Si
+16,PRD-0016,Zara Niños Plus,Ropa,Niños,Zara,39.76,62.99,No
+17,PRD-0017,Adidas Deportiva Pro,Ropa,Deportiva,Adidas,64.09,108.44,Si
+18,PRD-0018,Zara Deportiva Plus,Ropa,Deportiva,Zara,83.81,137.89,Si
+19,PRD-0019,Nike Accesorios Pro,Ropa,Accesorios,Nike,85.17,131.45,Si
+20,PRD-0020,H&M Accesorios Plus,Ropa,Accesorios,H&M,65.71,104.32,Si
+21,PRD-0021,Philips Cocina Pro,Hogar,Cocina,Philips,324.16,457.01,No
+22,PRD-0022,3M Cocina Plus,Hogar,Cocina,3M,116.5,172.53,No
+23,PRD-0023,Dyson Decoracion Pro,Hogar,Decoracion,Dyson,92.36,126.32,Si
+24,PRD-0024,Tefal Decoracion Plus,Hogar,Decoracion,Tefal,67.27,101.94,Si
+25,PRD-0025,3M Muebles Pro,Hogar,Muebles,3M,53.74,75.49,Si
+26,PRD-0026,Dyson Muebles Plus,Hogar,Muebles,Dyson,82.81,129.39,Si
+27,PRD-0027,Tefal Jardin Pro,Hogar,Jardin,Tefal,303.8,477.83,Si
+28,PRD-0028,3M Jardin Plus,Hogar,Jardin,3M,361.85,549.83,No
+29,PRD-0029,IKEA Limpieza Pro,Hogar,Limpieza,IKEA,60.64,82.71,Si
+30,PRD-0030,Philips Limpieza Plus,Hogar,Limpieza,Philips,364.07,547.47,Si
+31,PRD-0031,Unilever Bebidas Pro,Alimentos,Bebidas,Unilever,5.17,6.83,Si
+32,PRD-0032,PepsiCo Bebidas Plus,Alimentos,Bebidas,PepsiCo,3.08,4.17,Si
+33,PRD-0033,Unilever Snacks Pro,Alimentos,Snacks,Unilever,3.59,4.47,Si
+34,PRD-0034,Nestle Snacks Plus,Alimentos,Snacks,Nestle,3.95,4.77,Si
+35,PRD-0035,Nestle Lacteos Pro,Alimentos,Lacteos,Nestle,16.25,22.04,Si
+36,PRD-0036,Unilever Lacteos Plus,Alimentos,Lacteos,Unilever,5.99,7.47,Si
+37,PRD-0037,Kelloggs Organicos Pro,Alimentos,Organicos,Kelloggs,8.53,11.8,No
+38,PRD-0038,PepsiCo Organicos Plus,Alimentos,Organicos,PepsiCo,10.6,15.02,No
+39,PRD-0039,Unilever Congelados Pro,Alimentos,Congelados,Unilever,17.87,25.39,Si
+40,PRD-0040,Danone Congelados Plus,Alimentos,Congelados,Danone,10.55,14.65,Si
+41,PRD-0041,Speedo Fitness Pro,Deportes,Fitness,Speedo,244.08,348.99,Si
+42,PRD-0042,Under Armour Fitness Plus,Deportes,Fitness,Under Armour,266.21,400.59,Si
+43,PRD-0043,Under Armour Outdoor Pro,Deportes,Outdoor,Under Armour,217.68,334.93,Si
+44,PRD-0044,Speedo Outdoor Plus,Deportes,Outdoor,Speedo,124.23,189.76,Si
+45,PRD-0045,Under Armour Natacion Pro,Deportes,Natacion,Under Armour,88.08,144.66,No
+46,PRD-0046,Nike Natacion Plus,Deportes,Natacion,Nike,335.5,480.87,Si
+47,PRD-0047,Decathlon Ciclismo Pro,Deportes,Ciclismo,Decathlon,115.92,188.85,No
+48,PRD-0048,Under Armour Ciclismo Plus,Deportes,Ciclismo,Under Armour,134.66,204.22,No
+49,PRD-0049,Speedo Yoga Pro,Deportes,Yoga,Speedo,219.29,315.78,Si
+50,PRD-0050,Nike Yoga Plus,Deportes,Yoga,Nike,134.84,210.24,Si

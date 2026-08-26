@@ -1,0 +1,201 @@
+﻿CustomerKey,CustomerID,FullName,Gender,AgeGroup,Segment,City,State,Region,Country,JoinYear,IsActive
+1,CLI-0001,Ana Garcia,F,18-24,Premium,Xalapa,VER,Este,Mexico,2021,Si
+2,CLI-0002,Alejandro Lopez,M,55+,Mayorista,Puebla,PUE,Centro,Mexico,2020,No
+3,CLI-0003,Jorge Perez,M,25-34,Retail,Saltillo,COAH,Norte,Mexico,2024,Si
+4,CLI-0004,Daniela Torres,F,45-54,Mayorista,Cancun,QROO,Sur,Mexico,2021,Si
+5,CLI-0005,Jorge Torres,F,45-54,Retail,Tampico,TAMPS,Este,Mexico,2023,No
+6,CLI-0006,Fernando Ramirez,M,25-34,Premium,Guadalajara,JAL,Centro,Mexico,2021,No
+7,CLI-0007,Paula Gonzalez,M,45-54,Mayorista,Puerto Vallarta,JAL,Oeste,Mexico,2020,Si
+8,CLI-0008,Miguel Gonzalez,F,55+,Corporativo,Puerto Vallarta,JAL,Oeste,Mexico,2022,Si
+9,CLI-0009,Jose Ramirez,M,45-54,Mayorista,Veracruz,VER,Este,Mexico,2022,Si
+10,CLI-0010,Fernando Perez,F,25-34,Online,Oaxaca,OAX,Sur,Mexico,2022,Si
+11,CLI-0011,Diego Rivera,M,25-34,Retail,Xalapa,VER,Este,Mexico,2023,Si
+12,CLI-0012,Alejandro Gonzalez,M,35-44,Mayorista,Merida,YUC,Sur,Mexico,2021,No
+13,CLI-0013,Isabella Cruz,F,18-24,Online,Merida,YUC,Sur,Mexico,2020,Si
+14,CLI-0014,Luis Rivera,F,55+,Retail,Tampico,TAMPS,Este,Mexico,2021,Si
+15,CLI-0015,Luis Cruz,F,18-24,Corporativo,Cancun,QROO,Sur,Mexico,2022,No
+16,CLI-0016,Andres Ramirez,M,18-24,Mayorista,Puebla,PUE,Centro,Mexico,2022,No
+17,CLI-0017,Jorge Lopez,F,25-34,Mayorista,Oaxaca,OAX,Sur,Mexico,2021,No
+18,CLI-0018,Luis Cruz,M,25-34,Premium,Veracruz,VER,Este,Mexico,2020,Si
+19,CLI-0019,Camila Garcia,F,25-34,Premium,Puerto Vallarta,JAL,Oeste,Mexico,2022,No
+20,CLI-0020,Isabella Morales,F,55+,Retail,Guadalajara,JAL,Centro,Mexico,2022,Si
+21,CLI-0021,Isabella Flores,F,55+,Online,Puerto Vallarta,JAL,Oeste,Mexico,2022,Si
+22,CLI-0022,Daniela Gonzalez,M,25-34,Online,Saltillo,COAH,Norte,Mexico,2023,Si
+23,CLI-0023,Luis Rivera,M,45-54,Retail,Veracruz,VER,Este,Mexico,2022,Si
+24,CLI-0024,Isabella Sanchez,M,55+,Mayorista,Saltillo,COAH,Norte,Mexico,2021,Si
+25,CLI-0025,Paula Sanchez,F,55+,Retail,Xalapa,VER,Este,Mexico,2021,No
+26,CLI-0026,Andres Gonzalez,F,18-24,Corporativo,Cancun,QROO,Sur,Mexico,2024,Si
+27,CLI-0027,Luis Garcia,F,18-24,Mayorista,Guadalajara,JAL,Centro,Mexico,2022,Si
+28,CLI-0028,Paula Diaz,F,55+,Retail,Merida,YUC,Sur,Mexico,2021,Si
+29,CLI-0029,Jorge Perez,M,45-54,Corporativo,Puerto Vallarta,JAL,Oeste,Mexico,2021,Si
+30,CLI-0030,Ricardo Hernandez,F,25-34,Retail,Ciudad de Mexico,CDMX,Centro,Mexico,2022,No
+31,CLI-0031,Gabriela Cruz,F,45-54,Corporativo,Ciudad de Mexico,CDMX,Centro,Mexico,2021,Si
+32,CLI-0032,Camila Sanchez,F,45-54,Online,Xalapa,VER,Este,Mexico,2021,Si
+33,CLI-0033,Fernando Cruz,M,35-44,Retail,Puerto Vallarta,JAL,Oeste,Mexico,2022,Si
+34,CLI-0034,Isabella Torres,F,35-44,Online,Tijuana,BC,Norte,Mexico,2023,Si
+35,CLI-0035,Sofia Cruz,F,25-34,Corporativo,Monterrey,NL,Norte,Mexico,2021,Si
+36,CLI-0036,Maria Martinez,F,25-34,Corporativo,Tijuana,BC,Norte,Mexico,2021,Si
+37,CLI-0037,Maria Gonzalez,F,18-24,Mayorista,Monterrey,NL,Norte,Mexico,2022,Si
+38,CLI-0038,Jorge Diaz,M,55+,Mayorista,Tijuana,BC,Norte,Mexico,2024,No
+39,CLI-0039,Sofia Diaz,M,25-34,Premium,Puerto Vallarta,JAL,Oeste,Mexico,2022,Si
+40,CLI-0040,Valentina Sanchez,M,25-34,Corporativo,Culiacan,SIN,Oeste,Mexico,2022,Si
+41,CLI-0041,Ricardo Martinez,M,25-34,Retail,Veracruz,VER,Este,Mexico,2020,Si
+42,CLI-0042,Miguel Rodriguez,F,45-54,Mayorista,Culiacan,SIN,Oeste,Mexico,2024,Si
+43,CLI-0043,Diego Ramirez,F,25-34,Corporativo,Puerto Vallarta,JAL,Oeste,Mexico,2022,Si
+44,CLI-0044,Carlos Rivera,M,35-44,Online,Cancun,QROO,Sur,Mexico,2021,No
+45,CLI-0045,Laura Perez,F,45-54,Mayorista,Puerto Vallarta,JAL,Oeste,Mexico,2020,Si
+46,CLI-0046,Gabriela Lopez,F,18-24,Premium,Tampico,TAMPS,Este,Mexico,2020,Si
+47,CLI-0047,Alejandro Rodriguez,M,55+,Corporativo,Culiacan,SIN,Oeste,Mexico,2023,Si
+48,CLI-0048,Diego Sanchez,F,45-54,Online,Xalapa,VER,Este,Mexico,2022,Si
+49,CLI-0049,Sofia Cruz,M,25-34,Mayorista,Xalapa,VER,Este,Mexico,2023,Si
+50,CLI-0050,Fernando Hernandez,M,35-44,Corporativo,Tampico,TAMPS,Este,Mexico,2024,Si
+51,CLI-0051,Alejandro Flores,F,45-54,Premium,Merida,YUC,Sur,Mexico,2024,Si
+52,CLI-0052,Fernando Morales,F,35-44,Retail,Puerto Vallarta,JAL,Oeste,Mexico,2024,Si
+53,CLI-0053,Paula Sanchez,F,55+,Retail,Culiacan,SIN,Oeste,Mexico,2021,No
+54,CLI-0054,Paula Gonzalez,F,18-24,Corporativo,Tampico,TAMPS,Este,Mexico,2021,Si
+55,CLI-0055,Daniela Garcia,F,25-34,Corporativo,Xalapa,VER,Este,Mexico,2021,Si
+56,CLI-0056,Luis Morales,F,35-44,Premium,Guadalajara,JAL,Centro,Mexico,2022,No
+57,CLI-0057,Sofia Diaz,F,45-54,Retail,Cancun,QROO,Sur,Mexico,2024,Si
+58,CLI-0058,Paula Lopez,M,18-24,Retail,Tijuana,BC,Norte,Mexico,2024,Si
+59,CLI-0059,Laura Cruz,M,18-24,Premium,Merida,YUC,Sur,Mexico,2020,Si
+60,CLI-0060,Gabriela Torres,F,25-34,Online,Veracruz,VER,Este,Mexico,2021,Si
+61,CLI-0061,Valentina Perez,F,18-24,Retail,Puebla,PUE,Centro,Mexico,2024,No
+62,CLI-0062,Camila Ramirez,M,45-54,Corporativo,Guadalajara,JAL,Centro,Mexico,2020,Si
+63,CLI-0063,Sofia Torres,F,55+,Corporativo,Monterrey,NL,Norte,Mexico,2023,Si
+64,CLI-0064,Luis Perez,M,25-34,Corporativo,Ciudad de Mexico,CDMX,Centro,Mexico,2020,Si
+65,CLI-0065,Alejandro Flores,M,45-54,Premium,Saltillo,COAH,Norte,Mexico,2023,Si
+66,CLI-0066,Maria Gonzalez,M,35-44,Online,Saltillo,COAH,Norte,Mexico,2024,Si
+67,CLI-0067,Sofia Martinez,M,45-54,Premium,Saltillo,COAH,Norte,Mexico,2023,Si
+68,CLI-0068,Maria Ramirez,M,45-54,Online,Tampico,TAMPS,Este,Mexico,2022,No
+69,CLI-0069,Jose Lopez,F,55+,Premium,Culiacan,SIN,Oeste,Mexico,2021,Si
+70,CLI-0070,Valentina Sanchez,M,18-24,Online,Xalapa,VER,Este,Mexico,2021,No
+71,CLI-0071,Maria Perez,M,35-44,Mayorista,Ciudad de Mexico,CDMX,Centro,Mexico,2020,Si
+72,CLI-0072,Jorge Lopez,F,18-24,Online,Oaxaca,OAX,Sur,Mexico,2022,No
+73,CLI-0073,Gabriela Garcia,M,35-44,Retail,Mazatlan,SIN,Oeste,Mexico,2023,Si
+74,CLI-0074,Miguel Torres,M,55+,Online,Oaxaca,OAX,Sur,Mexico,2021,Si
+75,CLI-0075,Carlos Martinez,F,18-24,Mayorista,Monterrey,NL,Norte,Mexico,2022,Si
+76,CLI-0076,Gabriela Morales,M,55+,Retail,Puerto Vallarta,JAL,Oeste,Mexico,2024,Si
+77,CLI-0077,Camila Martinez,M,18-24,Premium,Oaxaca,OAX,Sur,Mexico,2020,Si
+78,CLI-0078,Jorge Diaz,M,18-24,Mayorista,Tijuana,BC,Norte,Mexico,2023,Si
+79,CLI-0079,Ricardo Martinez,F,45-54,Mayorista,Mazatlan,SIN,Oeste,Mexico,2021,Si
+80,CLI-0080,Isabella Flores,M,25-34,Corporativo,Culiacan,SIN,Oeste,Mexico,2020,Si
+81,CLI-0081,Diego Rivera,M,45-54,Premium,Tampico,TAMPS,Este,Mexico,2020,No
+82,CLI-0082,Paula Morales,F,25-34,Premium,Monterrey,NL,Norte,Mexico,2021,No
+83,CLI-0083,Paula Rivera,M,55+,Online,Monterrey,NL,Norte,Mexico,2022,Si
+84,CLI-0084,Sofia Sanchez,M,18-24,Retail,Culiacan,SIN,Oeste,Mexico,2023,Si
+85,CLI-0085,Sofia Lopez,F,45-54,Mayorista,Tijuana,BC,Norte,Mexico,2023,No
+86,CLI-0086,Ricardo Garcia,M,55+,Mayorista,Ciudad de Mexico,CDMX,Centro,Mexico,2024,No
+87,CLI-0087,Ana Sanchez,F,25-34,Corporativo,Puebla,PUE,Centro,Mexico,2020,No
+88,CLI-0088,Andres Rivera,F,45-54,Premium,Ciudad de Mexico,CDMX,Centro,Mexico,2023,Si
+89,CLI-0089,Jose Diaz,F,45-54,Online,Guadalajara,JAL,Centro,Mexico,2020,Si
+90,CLI-0090,Diego Garcia,M,18-24,Online,Mazatlan,SIN,Oeste,Mexico,2024,Si
+91,CLI-0091,Carlos Martinez,M,18-24,Retail,Culiacan,SIN,Oeste,Mexico,2022,Si
+92,CLI-0092,Sofia Martinez,M,18-24,Retail,Xalapa,VER,Este,Mexico,2020,Si
+93,CLI-0093,Alejandro Garcia,M,55+,Premium,Ciudad de Mexico,CDMX,Centro,Mexico,2022,Si
+94,CLI-0094,Ana Flores,F,45-54,Premium,Mazatlan,SIN,Oeste,Mexico,2022,Si
+95,CLI-0095,Ana Sanchez,M,18-24,Online,Mazatlan,SIN,Oeste,Mexico,2020,No
+96,CLI-0096,Laura Flores,M,25-34,Corporativo,Monterrey,NL,Norte,Mexico,2020,Si
+97,CLI-0097,Diego Garcia,M,45-54,Retail,Monterrey,NL,Norte,Mexico,2023,Si
+98,CLI-0098,Camila Gonzalez,F,25-34,Online,Guadalajara,JAL,Centro,Mexico,2023,Si
+99,CLI-0099,Luis Torres,F,55+,Premium,Saltillo,COAH,Norte,Mexico,2022,No
+100,CLI-0100,Gabriela Rivera,F,25-34,Corporativo,Tampico,TAMPS,Este,Mexico,2020,No
+101,CLI-0101,Fernando Perez,M,18-24,Premium,Tijuana,BC,Norte,Mexico,2023,Si
+102,CLI-0102,Gabriela Perez,F,25-34,Retail,Puerto Vallarta,JAL,Oeste,Mexico,2022,Si
+103,CLI-0103,Maria Hernandez,F,45-54,Online,Cancun,QROO,Sur,Mexico,2021,Si
+104,CLI-0104,Diego Perez,F,35-44,Retail,Puerto Vallarta,JAL,Oeste,Mexico,2023,Si
+105,CLI-0105,Sofia Cruz,F,35-44,Corporativo,Ciudad de Mexico,CDMX,Centro,Mexico,2021,Si
+106,CLI-0106,Sofia Hernandez,F,25-34,Retail,Puerto Vallarta,JAL,Oeste,Mexico,2023,Si
+107,CLI-0107,Miguel Rodriguez,F,35-44,Premium,Tijuana,BC,Norte,Mexico,2020,No
+108,CLI-0108,Ricardo Perez,M,25-34,Corporativo,Puerto Vallarta,JAL,Oeste,Mexico,2020,No
+109,CLI-0109,Laura Gonzalez,M,55+,Premium,Puebla,PUE,Centro,Mexico,2022,Si
+110,CLI-0110,Andres Hernandez,M,25-34,Online,Merida,YUC,Sur,Mexico,2024,Si
+111,CLI-0111,Ana Martinez,M,35-44,Premium,Saltillo,COAH,Norte,Mexico,2023,No
+112,CLI-0112,Paula Lopez,F,45-54,Mayorista,Tijuana,BC,Norte,Mexico,2020,Si
+113,CLI-0113,Gabriela Torres,M,55+,Premium,Xalapa,VER,Este,Mexico,2024,Si
+114,CLI-0114,Luis Flores,M,18-24,Corporativo,Monterrey,NL,Norte,Mexico,2023,Si
+115,CLI-0115,Paula Rivera,M,18-24,Premium,Tampico,TAMPS,Este,Mexico,2020,Si
+116,CLI-0116,Paula Flores,M,18-24,Retail,Puebla,PUE,Centro,Mexico,2024,Si
+117,CLI-0117,Jose Lopez,M,55+,Online,Tijuana,BC,Norte,Mexico,2024,No
+118,CLI-0118,Ana Cruz,F,18-24,Corporativo,Oaxaca,OAX,Sur,Mexico,2021,Si
+119,CLI-0119,Paula Gonzalez,F,55+,Mayorista,Monterrey,NL,Norte,Mexico,2022,Si
+120,CLI-0120,Andres Cruz,M,18-24,Premium,Veracruz,VER,Este,Mexico,2024,Si
+121,CLI-0121,Fernando Sanchez,F,25-34,Mayorista,Culiacan,SIN,Oeste,Mexico,2020,No
+122,CLI-0122,Jorge Torres,F,25-34,Mayorista,Tijuana,BC,Norte,Mexico,2022,No
+123,CLI-0123,Fernando Lopez,F,55+,Retail,Veracruz,VER,Este,Mexico,2024,No
+124,CLI-0124,Gabriela Sanchez,F,55+,Mayorista,Cancun,QROO,Sur,Mexico,2023,Si
+125,CLI-0125,Andres Morales,F,18-24,Corporativo,Veracruz,VER,Este,Mexico,2024,Si
+126,CLI-0126,Camila Flores,F,55+,Online,Oaxaca,OAX,Sur,Mexico,2020,Si
+127,CLI-0127,Jorge Hernandez,F,25-34,Corporativo,Tijuana,BC,Norte,Mexico,2024,Si
+128,CLI-0128,Diego Flores,M,45-54,Corporativo,Oaxaca,OAX,Sur,Mexico,2024,Si
+129,CLI-0129,Fernando Cruz,M,25-34,Online,Merida,YUC,Sur,Mexico,2021,Si
+130,CLI-0130,Isabella Hernandez,F,18-24,Premium,Saltillo,COAH,Norte,Mexico,2021,Si
+131,CLI-0131,Gabriela Rodriguez,M,55+,Mayorista,Mazatlan,SIN,Oeste,Mexico,2022,Si
+132,CLI-0132,Jose Martinez,F,18-24,Online,Veracruz,VER,Este,Mexico,2024,Si
+133,CLI-0133,Ana Perez,M,55+,Corporativo,Merida,YUC,Sur,Mexico,2021,No
+134,CLI-0134,Andres Hernandez,M,35-44,Mayorista,Ciudad de Mexico,CDMX,Centro,Mexico,2021,Si
+135,CLI-0135,Luis Cruz,F,18-24,Premium,Culiacan,SIN,Oeste,Mexico,2021,Si
+136,CLI-0136,Isabella Gonzalez,M,35-44,Retail,Ciudad de Mexico,CDMX,Centro,Mexico,2020,No
+137,CLI-0137,Maria Martinez,M,25-34,Retail,Oaxaca,OAX,Sur,Mexico,2020,Si
+138,CLI-0138,Gabriela Lopez,F,18-24,Mayorista,Culiacan,SIN,Oeste,Mexico,2022,Si
+139,CLI-0139,Jose Torres,M,35-44,Retail,Puebla,PUE,Centro,Mexico,2023,No
+140,CLI-0140,Gabriela Torres,F,18-24,Online,Tijuana,BC,Norte,Mexico,2021,No
+141,CLI-0141,Carlos Torres,M,25-34,Corporativo,Mazatlan,SIN,Oeste,Mexico,2021,Si
+142,CLI-0142,Ana Morales,M,45-54,Retail,Tijuana,BC,Norte,Mexico,2021,Si
+143,CLI-0143,Carlos Cruz,F,25-34,Corporativo,Puebla,PUE,Centro,Mexico,2024,Si
+144,CLI-0144,Miguel Lopez,M,18-24,Online,Veracruz,VER,Este,Mexico,2023,Si
+145,CLI-0145,Paula Martinez,F,55+,Mayorista,Puerto Vallarta,JAL,Oeste,Mexico,2024,No
+146,CLI-0146,Fernando Cruz,F,25-34,Online,Monterrey,NL,Norte,Mexico,2024,Si
+147,CLI-0147,Daniela Cruz,M,25-34,Mayorista,Tampico,TAMPS,Este,Mexico,2020,No
+148,CLI-0148,Gabriela Rivera,M,55+,Corporativo,Monterrey,NL,Norte,Mexico,2020,Si
+149,CLI-0149,Paula Perez,M,35-44,Premium,Cancun,QROO,Sur,Mexico,2021,Si
+150,CLI-0150,Ana Rivera,F,25-34,Mayorista,Saltillo,COAH,Norte,Mexico,2024,Si
+151,CLI-0151,Camila Rodriguez,M,18-24,Retail,Puerto Vallarta,JAL,Oeste,Mexico,2023,Si
+152,CLI-0152,Paula Diaz,M,35-44,Retail,Cancun,QROO,Sur,Mexico,2024,Si
+153,CLI-0153,Camila Lopez,F,35-44,Retail,Ciudad de Mexico,CDMX,Centro,Mexico,2023,Si
+154,CLI-0154,Gabriela Rodriguez,F,45-54,Corporativo,Saltillo,COAH,Norte,Mexico,2024,Si
+155,CLI-0155,Ricardo Diaz,F,55+,Retail,Ciudad de Mexico,CDMX,Centro,Mexico,2021,Si
+156,CLI-0156,Camila Morales,M,25-34,Retail,Puerto Vallarta,JAL,Oeste,Mexico,2021,Si
+157,CLI-0157,Paula Rodriguez,M,45-54,Retail,Mazatlan,SIN,Oeste,Mexico,2024,Si
+158,CLI-0158,Sofia Diaz,F,18-24,Mayorista,Merida,YUC,Sur,Mexico,2023,No
+159,CLI-0159,Ricardo Diaz,M,35-44,Corporativo,Tijuana,BC,Norte,Mexico,2021,Si
+160,CLI-0160,Jose Torres,F,18-24,Premium,Veracruz,VER,Este,Mexico,2021,No
+161,CLI-0161,Carlos Flores,F,45-54,Retail,Ciudad de Mexico,CDMX,Centro,Mexico,2020,No
+162,CLI-0162,Paula Cruz,M,55+,Premium,Tampico,TAMPS,Este,Mexico,2024,No
+163,CLI-0163,Ana Perez,M,45-54,Retail,Tampico,TAMPS,Este,Mexico,2021,No
+164,CLI-0164,Jorge Ramirez,M,35-44,Retail,Tampico,TAMPS,Este,Mexico,2021,Si
+165,CLI-0165,Sofia Flores,M,35-44,Online,Saltillo,COAH,Norte,Mexico,2023,Si
+166,CLI-0166,Maria Cruz,M,35-44,Retail,Puerto Vallarta,JAL,Oeste,Mexico,2022,Si
+167,CLI-0167,Carlos Rodriguez,M,45-54,Online,Ciudad de Mexico,CDMX,Centro,Mexico,2020,Si
+168,CLI-0168,Alejandro Rodriguez,F,55+,Online,Tijuana,BC,Norte,Mexico,2022,Si
+169,CLI-0169,Miguel Diaz,M,45-54,Retail,Tampico,TAMPS,Este,Mexico,2023,Si
+170,CLI-0170,Laura Ramirez,M,55+,Online,Oaxaca,OAX,Sur,Mexico,2020,No
+171,CLI-0171,Luis Perez,M,18-24,Corporativo,Mazatlan,SIN,Oeste,Mexico,2022,Si
+172,CLI-0172,Valentina Perez,M,35-44,Retail,Tampico,TAMPS,Este,Mexico,2022,No
+173,CLI-0173,Isabella Sanchez,M,18-24,Mayorista,Puerto Vallarta,JAL,Oeste,Mexico,2021,Si
+174,CLI-0174,Jorge Perez,M,55+,Mayorista,Xalapa,VER,Este,Mexico,2020,No
+175,CLI-0175,Maria Rivera,F,45-54,Mayorista,Tijuana,BC,Norte,Mexico,2021,No
+176,CLI-0176,Alejandro Flores,F,18-24,Retail,Puerto Vallarta,JAL,Oeste,Mexico,2024,Si
+177,CLI-0177,Maria Gonzalez,F,25-34,Retail,Saltillo,COAH,Norte,Mexico,2024,Si
+178,CLI-0178,Camila Perez,M,45-54,Premium,Saltillo,COAH,Norte,Mexico,2021,Si
+179,CLI-0179,Daniela Flores,F,55+,Online,Tijuana,BC,Norte,Mexico,2023,No
+180,CLI-0180,Jorge Martinez,F,35-44,Online,Monterrey,NL,Norte,Mexico,2024,Si
+181,CLI-0181,Paula Perez,M,55+,Mayorista,Merida,YUC,Sur,Mexico,2022,Si
+182,CLI-0182,Sofia Garcia,F,18-24,Mayorista,Cancun,QROO,Sur,Mexico,2024,No
+183,CLI-0183,Jorge Morales,F,18-24,Corporativo,Puebla,PUE,Centro,Mexico,2020,No
+184,CLI-0184,Diego Martinez,F,45-54,Premium,Saltillo,COAH,Norte,Mexico,2023,No
+185,CLI-0185,Daniela Garcia,M,25-34,Online,Mazatlan,SIN,Oeste,Mexico,2024,Si
+186,CLI-0186,Isabella Rodriguez,M,18-24,Mayorista,Xalapa,VER,Este,Mexico,2020,No
+187,CLI-0187,Camila Sanchez,M,45-54,Mayorista,Tijuana,BC,Norte,Mexico,2024,Si
+188,CLI-0188,Ricardo Cruz,M,55+,Premium,Ciudad de Mexico,CDMX,Centro,Mexico,2020,No
+189,CLI-0189,Andres Morales,M,45-54,Retail,Veracruz,VER,Este,Mexico,2020,Si
+190,CLI-0190,Diego Perez,M,45-54,Retail,Tijuana,BC,Norte,Mexico,2024,Si
+191,CLI-0191,Ricardo Lopez,F,25-34,Mayorista,Culiacan,SIN,Oeste,Mexico,2023,Si
+192,CLI-0192,Valentina Garcia,M,45-54,Corporativo,Culiacan,SIN,Oeste,Mexico,2024,Si
+193,CLI-0193,Andres Torres,M,18-24,Corporativo,Puebla,PUE,Centro,Mexico,2020,No
+194,CLI-0194,Maria Diaz,F,55+,Online,Guadalajara,JAL,Centro,Mexico,2023,No
+195,CLI-0195,Alejandro Rodriguez,F,25-34,Mayorista,Xalapa,VER,Este,Mexico,2021,No
+196,CLI-0196,Laura Sanchez,M,25-34,Premium,Xalapa,VER,Este,Mexico,2023,Si
+197,CLI-0197,Ana Rivera,M,25-34,Retail,Oaxaca,OAX,Sur,Mexico,2022,Si
+198,CLI-0198,Maria Rivera,F,45-54,Retail,Guadalajara,JAL,Centro,Mexico,2021,Si
+199,CLI-0199,Jorge Rodriguez,M,45-54,Mayorista,Puebla,PUE,Centro,Mexico,2023,Si
+200,CLI-0200,Jose Rodriguez,M,55+,Retail,Puebla,PUE,Centro,Mexico,2022,Si
