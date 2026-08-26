@@ -1,18 +1,4 @@
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <title>Power BI – Comprehensive Business Performance Dashboard</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; }
-    h1, h2 { color: #2c3e50; }
-    hr { margin: 40px 0; }
-    .section-title { font-size: 26px; margin-top: 40px; }
-  </style>
-</head>
-
-<body>
 
   <!-- ========================= -->
   <!-- SPANISH VERSION           -->
